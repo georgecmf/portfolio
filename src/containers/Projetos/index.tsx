@@ -14,7 +14,7 @@ const projetos = [
     titulo: 'Nail Designer',
     descricao:
       'Site institucional para profissional autônoma, destacando serviços, valores e facilitando o contato com clientes.',
-    link: 'https://bruna-nail-designer-georgecmfs-projects.vercel.app',
+    link: 'https://github.com/georgecmf/bruna-nail-designer',
     github: 'https://github.com/georgecmf/bruna-nail-designer'
   },
   {
